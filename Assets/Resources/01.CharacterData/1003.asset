@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 94c465bb5b2db4f4eb04296323d1915e, type: 3}
+  m_Name: 1003
+  m_EditorClassIdentifier: 
+  id: 1003
+  _tier: 2
+  _name: "\u300E\uD558\uC580\uD0C4\uD658\u300F \uB9C8\uC774\uD2F0"
+  _description: "\uD558\uC580\uD0C4\uD658\uC774\uB77C \uBD88\uB9AC\uB294 \uC655\uAD6D\uC758
+    \uCD5C\uC804\uC120\uC5D0 \uC11C\uB294 \uAE30\uC0AC\uC785\uB2C8\uB2E4.\n\uADF8\uAC00
+    \uD729\uC4F8\uACE0 \uC9C0\uB098\uAC04 \uACF3\uC5D0 \uC801\uC740 \uB2E8 \uD55C\uBA85\uB3C4
+    \uB0A8\uC9C0 \uC54A\uC2B5\uB2C8\uB2E4."
+  _class: {fileID: 11400000, guid: b6301b5d5028d924784383b89ddf841b, type: 2}
+  _weapon: {fileID: 11400000, guid: bcf162a1388ceea4daf7b417c489eb8c, type: 2}
+  _mainStatus: 0
+  _element: {fileID: 0}
+  prefab: {fileID: -6123596643055073553, guid: 92c557f1d2f8c974081c8414894f66cc, type: 3}

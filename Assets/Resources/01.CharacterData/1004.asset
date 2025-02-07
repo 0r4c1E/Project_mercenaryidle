@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 94c465bb5b2db4f4eb04296323d1915e, type: 3}
+  m_Name: 1004
+  m_EditorClassIdentifier: 
+  id: 1004
+  _tier: 2
+  _name: "\uB85C\uBBC8\uB85C\uC2A4"
+  _description: "\uACFC\uAC70 '\uBD89\uC740 \uB9E4' \uB77C\uACE0 \uBD88\uB9B0 \uD669\uC2E4
+    \uC9C1\uC18D \uC554\uC0B4\uB2E8\uC758 \uC77C\uC6D0\uC774\uC5C8\uB358 \uB85C\uBBC8\uB85C\uC2A4\uB294,\n\uD669\uC81C\uC5D0
+    \uC758\uD574 \uBAA8\uB4E0\uAC83\uC744 \uC783\uC5C8\uC2B5\uB2C8\uB2E4. \uADF8\uC758
+    \uD654\uC0B4\uC740 \uC5B8\uC81C\uB098 \uD669\uC81C\uB97C \uB178\uB9AC\uACE0 \uC788\uC2B5\uB2C8\uB2E4."
+  _class: {fileID: 11400000, guid: 23ed170d9fb8eb14a9bef0be4ca351ea, type: 2}
+  _weapon: {fileID: 11400000, guid: 814e3310da5826d468f913245c0a4cf7, type: 2}
+  _mainStatus: 3
+  _element: {fileID: 0}
+  prefab: {fileID: 6296654036540500329, guid: 988f707347abcee4ca4f9c92d3d3cb27, type: 3}
